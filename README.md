@@ -97,11 +97,11 @@ Os endpoints de listagem estão paginados por padrão, com um limite de 10 itens
 
 A biblioteca Django RQL fornece diversos filtros para as URLS de APIs.
 Na documentação pode ser verificado todos os filtros possíveis:
-    [text](https://django-rql.readthedocs.io/en/latest/user_guide/)
+    [link](https://django-rql.readthedocs.io/en/latest/user_guide/)
 
 Segue exemplo abaixo de um filtro realizado na API de consultas através do ID do paciente:
 
-[text](http://127.0.0.1:8000/api/v1/consultation/?eq(patient_name,3))
+[link](http://127.0.0.1:8000/api/v1/consultation/?eq(patient_name,3))
 
 Este exemplo retorna somente as informações do paciente 3.
 
