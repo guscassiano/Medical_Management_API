@@ -91,7 +91,7 @@ python manage.py test
 
 ## Paginação
 
-Os endpoints de listagem estão paginados por padrão, com um limite de 10 itens por página. Para navegar entre as páginas, utilize os parâmetros ```bash?page=``` na URL.
+Os endpoints de listagem estão paginados por padrão, com um limite de 10 itens por página. Para navegar entre as páginas, utilize os parâmetros ```?page=``` na URL.
 
 ## Filtros RQL
 
